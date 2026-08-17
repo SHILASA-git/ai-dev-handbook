@@ -1,0 +1,14 @@
+---
+description: Student Python/FastAPI defaults for Cursor Agent
+alwaysApply: true
+---
+
+# Python student project
+
+- Python 3.10+, FastAPI when building APIs, pytest for tests
+- Type hints on public functions
+- No new dependencies unless the user asks
+- Never hardcode secrets, API keys, or passwords; use env var names only
+- Match ARCHITECTURE.md when it exists — do not invent extra components
+- One feature per change; prefer small diffs
+- Routes stay thin; storage and validation in separate functions or classes
