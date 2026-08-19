@@ -70,4 +70,4 @@ Hallucinations are normal. Confident ≠ correct.
 | Skip `ARCHITECTURE.md` | Design prompt first, always |
 | Trust a blog-style ChatGPT answer | Official docs next |
 
-Copy-paste library: [prompts.md](prompts.md) · What the editor packs around your prompt: [how-editors-work.md](how-editors-work.md)
+Copy-paste library: [prompts.md](prompts.md) · What the editor packs around your prompt: [how-editors-work.md](how-editors-work.md) · Secrets and Agent don'ts: [what-not-to-do.md](what-not-to-do.md)

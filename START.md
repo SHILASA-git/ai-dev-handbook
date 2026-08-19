@@ -31,6 +31,8 @@ Project this page. Keep it open both days.
 4. **One feature per prompt.** Not “build the entire app.”
 5. **You own what ships.** Interviews: “I used AI to draft; I reviewed and can explain every line.”
 
+Full list (keys, Agent, assignments, OSS): [what-not-to-do.md](what-not-to-do.md)
+
 ---
 
 ## REFINE loop

@@ -15,6 +15,7 @@ Labs and timing live in the workshop repo: [`ai-workshop`](../ai-workshop/). Thi
 | Always | **[START.md](START.md)** — which tool when + 5 rules |
 | In the room | **[workshop-map.md](workshop-map.md)** — this block → this page |
 | Copy-paste | **[prompts.md](prompts.md)** — prompts by job |
+| Safety | **[what-not-to-do.md](what-not-to-do.md)** — secrets, Agent, OSS, assignments |
 
 ---
 
@@ -27,6 +28,7 @@ Labs and timing live in the workshop repo: [`ai-workshop`](../ai-workshop/). Thi
 | How the editor packs context | [how-editors-work.md](how-editors-work.md) |
 | A specific tool | [tools/](tools/) — Cursor, Claude, ChatGPT, Copilot, Gemini |
 | Marketplace / Skills / MCP | [marketplace.md](marketplace.md) |
+| What **not** to do | [what-not-to-do.md](what-not-to-do.md) |
 | Architecture | [jobs/architecture.md](jobs/architecture.md) |
 | Coding / debug | [jobs/coding.md](jobs/coding.md) · [jobs/debugging.md](jobs/debugging.md) |
 
@@ -58,6 +60,7 @@ prompting.md        ← prompt engineering
 ai-history.md       ← regression → nets → GPTs → agents
 how-editors-work.md ← context window, Rules, Skills, MCP, RAG
 marketplace.md      ← Rules, Skills, Marketplace, MCP — safely
+what-not-to-do.md   ← secrets, Agent, OSS, assignments — strict don'ts
 tools/              ← one page per tool
 jobs/               ← coding, research, analyze, debug, architecture
 prompts.md          ← copy-paste library

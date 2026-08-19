@@ -2,7 +2,7 @@
 
 Implement **one feature** that already exists on the API table. If there is no `ARCHITECTURE.md`, stop and [design first](architecture.md).
 
-Tools: [Cursor](../tools/cursor.md) · [Copilot](../tools/copilot.md) · [prompts.md](../prompts.md)
+Tools: [Cursor](../tools/cursor.md) · [Copilot](../tools/copilot.md) · [prompts.md](../prompts.md) · Don'ts: [what-not-to-do.md](../what-not-to-do.md)
 
 ---
 

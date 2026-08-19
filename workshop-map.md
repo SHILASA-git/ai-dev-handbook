@@ -10,7 +10,7 @@ Schedule: [ai-workshop/SCHEDULE.md](../ai-workshop/SCHEDULE.md)
 
 | Block | Lab (workshop repo) | Open here |
 |-------|---------------------|-----------|
-| Landscape + responsible AI | [day1/01-ai-landscape.md](../ai-workshop/day1/01-ai-landscape.md) | [prompting.md](prompting.md) · [START.md](START.md) · [ai-history.md](ai-history.md) (refresh) · [how-editors-work.md](how-editors-work.md) (skim) |
+| Landscape + responsible AI | [day1/01-ai-landscape.md](../ai-workshop/day1/01-ai-landscape.md) | [START.md](START.md) · [what-not-to-do.md](what-not-to-do.md) · [prompting.md](prompting.md) · [ai-history.md](ai-history.md) · [how-editors-work.md](how-editors-work.md) |
 | Same task, three chat tools | same file | [tools/chatgpt.md](tools/chatgpt.md) · [tools/claude.md](tools/claude.md) · [tools/gemini.md](tools/gemini.md) |
 | SE + architecture | [day1/02-python-se-with-ai.md](../ai-workshop/day1/02-python-se-with-ai.md) | [jobs/architecture.md](jobs/architecture.md) |
 | Tool setup | [day1/03-tools-setup-lab.md](../ai-workshop/day1/03-tools-setup-lab.md) | [tools/cursor.md](tools/cursor.md) · [tools/copilot.md](tools/copilot.md) · [tools/claude.md](tools/claude.md) |
@@ -28,7 +28,7 @@ Schedule: [ai-workshop/SCHEDULE.md](../ai-workshop/SCHEDULE.md)
 |-------|---------------------|-----------|
 | Productivity clinic | [day2/01-productivity-clinic.md](../ai-workshop/day2/01-productivity-clinic.md) | [START.md](START.md) · all [jobs/](jobs/) |
 | Automation lab | [day2/02-automation-lab.md](../ai-workshop/day2/02-automation-lab.md) | [jobs/coding.md](jobs/coding.md) · [prompts.md](prompts.md) (Day 2) |
-| AppSec lab | [day2/03-appsec-lab.md](../ai-workshop/day2/03-appsec-lab.md) | [marketplace.md](marketplace.md) (agent safety) · [prompts.md](prompts.md) |
+| AppSec lab | [day2/03-appsec-lab.md](../ai-workshop/day2/03-appsec-lab.md) | [what-not-to-do.md](what-not-to-do.md) · [marketplace.md](marketplace.md) · [prompts.md](prompts.md) |
 | OSS contribution | [day2/04-oss-contribution.md](../ai-workshop/day2/04-oss-contribution.md) | [after/oss.md](after/oss.md) |
 | Mini-project | [day2/05-mini-project.md](../ai-workshop/day2/05-mini-project.md) | [jobs/architecture.md](jobs/architecture.md) then coding |
 | Close | [day2/06-close.md](../ai-workshop/day2/06-close.md) | [after/README.md](after/README.md) |
@@ -43,7 +43,7 @@ Schedule: [ai-workshop/SCHEDULE.md](../ai-workshop/SCHEDULE.md)
 |------------------|----------------|
 | Pasting “build entire app” | [prompting.md](prompting.md) anti-patterns |
 | Accepting 500-line Agent diffs | [tools/cursor.md](tools/cursor.md) · [START.md](START.md) rule 1 |
-| Pasting `.env` | [marketplace.md](marketplace.md) |
+| Pasting `.env` or keys | [what-not-to-do.md](what-not-to-do.md) |
 | Skipping `ARCHITECTURE.md` | [jobs/architecture.md](jobs/architecture.md) |
 | Trusting ChatGPT facts | [jobs/researching.md](jobs/researching.md) |
 | Asking how Cursor “sees” the repo | [how-editors-work.md](how-editors-work.md) |

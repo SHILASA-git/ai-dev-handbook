@@ -74,4 +74,4 @@ Useful later. Risky if you don't know the server.
 3. Don't auto-run unknown skills.
 4. Don't open mass AI-generated OSS PRs.
 
-Secrets and Git: workshop [AppSec lab](../ai-workshop/day2/03-appsec-lab.md). After: [after/track-security.md](after/track-security.md).
+Secrets and Git: workshop [AppSec lab](../ai-workshop/day2/03-appsec-lab.md). Full don'ts: [what-not-to-do.md](what-not-to-do.md). After: [after/track-security.md](after/track-security.md).

@@ -2,7 +2,7 @@
 
 Local **application security** — secrets, OWASP, hardening the code you write. Ethical learning only. **No requirement for cloud accounts.**
 
-Handbook: [marketplace.md](../marketplace.md) · [jobs/analyzing.md](../jobs/analyzing.md)
+Handbook: [what-not-to-do.md](../what-not-to-do.md) · [marketplace.md](../marketplace.md) · [jobs/analyzing.md](../jobs/analyzing.md)
 
 ---
 
